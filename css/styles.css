@@ -1,0 +1,87 @@
+/* Below classes were used to learn float property */
+
+/* .box {
+   height: 100px;
+   width: 200px;
+}
+
+.red {
+   background-color: red;
+}
+
+.green {
+   background-color: green;
+}
+
+.blue {
+   background-color: blue;
+}
+
+.purple {
+   background-color: purple;
+}
+
+.yellow {
+   background-color: yellow;
+}
+
+.orange {
+   background-color: orange;
+}
+
+.left {
+   float: left;
+}
+
+.right {
+   float: right;
+}
+
+.clear-left {
+   clear: left;
+}
+
+.clear-right {
+   clear: right;
+}
+
+.clear-both {
+   clear: both;
+} */
+
+/* Global Styles */
+body {
+    margin: 0;
+ }
+ 
+ /* Nav Styles */
+ .main-nav {
+    height: 75px;
+    background-color: #333333;
+ }
+
+ .logo {
+    height: 56px;
+    padding: 10px;
+ }
+
+ .nav-list {
+    float: right;
+ }
+
+ ul {
+     list-style: none;
+ }
+ 
+ li {
+    color: white;
+    float: left;
+    padding: 14px 16px;
+ }
+
+ .center {
+    text-align: center;
+ }
+
+ /* End Nav Styles */
+ 
