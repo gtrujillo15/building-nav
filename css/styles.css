@@ -103,6 +103,15 @@ body {
  .content {
     height: 85vh;
  }
+
+ .map-box {
+    margin-left: 30%;
+ }
+
+ .map {
+    width: 600px;
+    height: 450px;
+ }
  
 
  /* End of Content */
