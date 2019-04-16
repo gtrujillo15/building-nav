@@ -97,4 +97,29 @@ body {
  }
 
  /* End Nav Styles */
+
+ /* Start of Content */
+
+ .content {
+    height: 85vh;
+ }
  
+.social-media {
+   height: 50px;
+   margin-bottom: 0px;
+   list-style-type: none;
+}
+ /* End of Content */
+
+ /* Start of Footer */
+
+ .footer {
+   background-color: brown;
+ }
+
+ a {
+    color: white;
+    text-decoration: none;
+ }
+
+ /* End of Footer */
