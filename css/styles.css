@@ -101,14 +101,25 @@ body {
  /* Start of Content */
 
  .content {
-    height: 100vh;
+    height: 110vh;
+ }
+
+ .map-box {
+    margin-left: 30%;
  }
 
  .map {
     width: 600px;
     height: 450px;
  }
+
+ audio {
+    margin-left: 40%;
+ }
  
+ .video {
+    margin-left: 31%;
+ }
 
  /* End of Content */
 
