@@ -152,6 +152,18 @@ body {
     width: 250px;
  }
 
+ span {
+    background-color: yellowgreen;
+ }
+
+ .family > span {
+    background-color: orange;
+ }
+
+ .second-span ~ .first-span {
+    color: red;
+ }
+
  /* End of Content */
 
  /* Start of Footer */
