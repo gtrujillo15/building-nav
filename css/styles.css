@@ -101,7 +101,7 @@ body {
  /* Start of Content */
 
  .content {
-    height: 85vh;
+    height: 110vh;
  }
 
  .map-box {
@@ -112,7 +112,14 @@ body {
     width: 600px;
     height: 450px;
  }
+
+ audio {
+    margin-left: 40%;
+ }
  
+ .video {
+    margin-left: 31%;
+ }
 
  /* End of Content */
 
