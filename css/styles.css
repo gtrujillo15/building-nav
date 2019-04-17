@@ -77,8 +77,8 @@ body {
     float: right;
  }
 
- ul {
-     list-style: none;
+ .no-style-list {
+    list-style-type: none;
  }
  
  li {
@@ -101,7 +101,7 @@ body {
  /* Start of Content */
 
  .content {
-    height: 110vh;
+    height: 120vh;
  }
 
  .map-box {
@@ -121,6 +121,37 @@ body {
     margin-left: 31%;
  }
 
+ .button {
+   padding: 10px;
+   font-size: 24px;
+   color: white;
+   border-radius: 10px;
+}
+
+ .button-success {
+    border: 1px solid #ccc;
+    background-color: green;
+ }
+
+ .button-default {
+    background-color: #eee;
+    color: black;
+    
+ }
+
+ .button-danger {
+    background-color: red;
+    border: none;
+ }
+
+ .button-small {
+    width: 150px;
+ }
+
+ .button-large {
+    width: 250px;
+ }
+
  /* End of Content */
 
  /* Start of Footer */
@@ -137,7 +168,6 @@ body {
 .social-media {
    height: 50px;
    margin-bottom: 0px;
-   list-style-type: none;
 }
 
  /* End of Footer */
